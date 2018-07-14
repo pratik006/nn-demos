@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/pratik/git/nn-demos/xor/models/tflearncnn.model"
+all_model_checkpoint_paths: "/home/pratik/git/nn-demos/xor/models/tflearncnn.model"
